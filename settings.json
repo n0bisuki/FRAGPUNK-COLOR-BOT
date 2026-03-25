@@ -1,0 +1,12 @@
+{
+    "XFOV": 97,
+    "YFOV": 50,
+    "SMOOTHNESS": 3,
+    "HEAD_OFFSET": 3,
+    "MOVESPEED": 0.55,
+    "FOV_TOGGLE": false,
+    "UI_TOGGLE": "0x75",
+    "CHEAT_ONOFF": "0x74",
+    "INGAME_SENSITIVITY": 3,
+    "AIM_ASSIST_KEY": "0x01"
+}
